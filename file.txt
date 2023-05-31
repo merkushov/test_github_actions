@@ -1,1 +1,2 @@
-Hello my new repo
+Hello my new repo!
+Hello Python!
